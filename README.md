@@ -14,7 +14,7 @@ Afinal, estou aqui para aprender, compartilhar e crescer — um commit de cada v
 
 ## 🚀 Minhas Skills
 
-### 🎨 Front-end
+### Front-end
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
 </a> &nbsp;
@@ -37,7 +37,7 @@ Afinal, estou aqui para aprender, compartilhar e crescer — um commit de cada v
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/>
 </a>
 
-### ⚙️ Back-end
+### Back-end
 <a href="https://laravel.com/" target="_blank" title="Laravel">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"/>
 </a> &nbsp;
@@ -48,12 +48,12 @@ Afinal, estou aqui para aprender, compartilhar e crescer — um commit de cada v
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
 </a>
 
-### 🗄️ Database
+### Database
 <a href="https://www.mysql.com/" target="_blank" title="MySQL">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
 </a>
 
-### 🔧 Controle de Versão e Ferramentas
+### Controle de Versão e Ferramentas
 <a href="https://git-scm.com/" target="_blank" title="Git">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
 </a> &nbsp;
