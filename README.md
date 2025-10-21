@@ -30,31 +30,8 @@ Afinal, estou aqui para aprender, compartilhar e crescer — um commit de cada v
 
 ---
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=DudaFranca&show_icons=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaFranca&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=DudaFranca&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DudaFranca&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DudaFranca&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DudaFranca&hide_border=false)
